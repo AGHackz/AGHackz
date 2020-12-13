@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AGHackz&layout=compact&hide=html" alt="AGHackz (Ankit Gupta)" /></p>
-<p> </p>
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=AGHackz&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
